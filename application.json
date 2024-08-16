@@ -4,6 +4,7 @@
   "collapseInvisibleWidgets": true,
   "color": "#D6D1F2",
   "evaluationVersion": 2,
+  "icon": "calender",
   "pages": [
     {
       "id": "Page1",
